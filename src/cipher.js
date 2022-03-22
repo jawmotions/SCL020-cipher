@@ -1,5 +1,6 @@
 const cipher = {
-  msg: 'Hola mundo!'
+  msg: 'Hola mundo!',
+  text: 'Chao mundo!'
 };
 
 export default cipher;
